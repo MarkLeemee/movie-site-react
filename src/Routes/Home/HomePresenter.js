@@ -1,0 +1,1 @@
+export default () => "Ho1111me";
